@@ -1,8 +1,10 @@
 body{
     background-color: lavender;
-    font-family: fantasy;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .button{
-    color: lightgreen;
+    background-color: lightgreen;
+    color: darkgreen;
+
 }
