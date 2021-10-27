@@ -1,10 +1,20 @@
 body{
-    background-color: lavender;
+    background: rgb(32,2,40);
+    background: linear-gradient(143deg, rgb(113, 47, 131) 0%, rgba(106,15,97,1) 49%, rgba(201,144,208,1) 100%);
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.nav{
+    background-color: cadetblue;
+}
+
+.box{
+    background-color: lightslategray;
 }
 
 .button{
-    background-color: lightgreen;
+    background-color: rgb(13, 63, 13);
     color: darkgreen;
-
+    box-shadow: 2px, 5px, lightcoral; 
 }
